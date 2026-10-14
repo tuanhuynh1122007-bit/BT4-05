@@ -1,1 +1,2 @@
-https://github.com/tuanhuynh1122007-bit/si_gum07
+https://github.com/tuanhuynh1122007-bit/si_gumi
+int i = 0;
